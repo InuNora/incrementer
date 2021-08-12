@@ -1,0 +1,13 @@
+basePath: /
+host: localhost:8080
+info:
+  contact:
+    email: j.pikareva@gmail.com
+    name: Julia Konopatova
+  description: This is a test task on Go language with swagger and test coverage -
+    Incrementer (Golang)
+  termsOfService: http://swagger.io/terms/
+  title: Swagger Incrementer API
+  version: "1.0"
+paths: {}
+swagger: "2.0"

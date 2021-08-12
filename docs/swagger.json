@@ -1,0 +1,16 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "This is a test task on Go language with swagger and test coverage - Incrementer (Golang)",
+        "title": "Swagger Incrementer API",
+        "termsOfService": "http://swagger.io/terms/",
+        "contact": {
+            "name": "Julia Konopatova",
+            "email": "j.pikareva@gmail.com"
+        },
+        "version": "1.0"
+    },
+    "host": "localhost:8080",
+    "basePath": "/",
+    "paths": {}
+}
